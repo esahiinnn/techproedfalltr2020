@@ -2,7 +2,7 @@ package day02wrapperclass;
 
 public class Wrapper01 {
 
-	public static void main(String[] args) {
+	static public void main(String[] args) {
 		
 		//byte, short ve int'in maximum ve minimum degerlerini kod ile bulunuz.
 		

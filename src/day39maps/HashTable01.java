@@ -23,6 +23,7 @@ public class HashTable01 {
 			ht1.put(104, "Ali");
 			ht1.put(103, "Ali");
 			ht1.put(102, "Ali");
+			ht1.put(102,  "ayse");
 			System.out.println(ht1); // {105=Ali, 104=Ali, 103=Ali, 102=Ali, 101=Ali}
 			
 			//ht1.put(null, "Beyhan"); NullPointerException verir
